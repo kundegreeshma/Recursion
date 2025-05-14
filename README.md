@@ -1,1 +1,2 @@
 # Recursion
+Recursion is a programming technique where a function calls itself to solve smaller parts of a larger problem. It works by breaking the problem down into simpler sub-problems until it reaches a base case, which stops the recursion. The recursive calls gradually build up solutions to the smaller problems, which are then combined to solve the original one. Proper use of a base case is essential to prevent infinite loops and ensure the function terminates correctly.
